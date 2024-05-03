@@ -1,2 +1,3 @@
 # univnotes
-notes
+
+just notes
